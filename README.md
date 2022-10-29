@@ -1,1 +1,1 @@
-# Karine
+This portfolio is the combination of tasks assigned during the training course “Software Testing: Big Picture” which is part of the "WomenCoders" program funded by AGBU Armenia and implemented by QWALLITY and Quick Start.
